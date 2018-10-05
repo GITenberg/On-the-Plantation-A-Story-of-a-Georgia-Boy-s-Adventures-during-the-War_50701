@@ -33,6 +33,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'On the Plantation
 
   A Story of a Georgia Boy''s Adventures during the War'
